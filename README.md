@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | React • TypeScript • Node.js
 
-I'm a Full-Stack Developer with 5+ years of experience building, maintaining, and improving web applications.
+I'm a Full-Stack Developer with 6+ years of experience building, maintaining, and improving web applications.
 
 I enjoy working across the stack, from creating responsive user interfaces to developing backend services and integrating APIs. I'm passionate about writing clean, maintainable code and continuously improving my technical skills.
 
@@ -13,32 +13,60 @@ I enjoy working across the stack, from creating responsive user interfaces to de
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-**Frontend**
+### Frontend Development
+
+Building responsive and intuitive user interfaces.
 
 - React
-- TypeScript
-- JavaScript
 - Redux
+- Angular
 - Material UI
+- HTML5
+- CSS3
+- Bootstrap
 
-**Backend**
+### Backend Development
+
+Developing APIs and reliable server-side applications.
 
 - Node.js
 - Express.js
-- Redis
+- Laravel
+- REST APIs
 
-**Database**
+### Programming Languages
+
+Languages used across different parts of development.
+
+- JavaScript
+- TypeScript
+- PHP
+- SQL
+
+### Databases
+
+Working with relational and in-memory databases.
 
 - MySQL
+- MariaDB
+- PostgreSQL
+- Redis
 
-**Tools & Technologies**
+### Tools & Workflow
+
+Tools and practices for efficient development.
 
 - Git
-- GitHub
-- Google Analytics
-- Google Tag Manager
+- Docker
+- npm
+- Postman
+- Swagger
+- Jest
+- Agile
+- Scrum
+- CI/CD
 
 ---
 
