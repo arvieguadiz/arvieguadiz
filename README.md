@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Christian Arvie Benito 👋
 
-<!--
-**arvieguadiz/arvieguadiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | React • TypeScript • Node.js
 
-Here are some ideas to get you started:
+I'm a Full-Stack Developer with 5+ years of experience building, maintaining, and improving web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across the stack, from creating responsive user interfaces to developing backend services and integrating APIs. I'm passionate about writing clean, maintainable code and continuously improving my technical skills.
+
+- 💻 Experienced in frontend and backend development
+- ⚙️ Interested in building scalable and maintainable applications
+- 🚀 Always learning and exploring new technologies
+- 🌐 Check out my [Portfolio](https://arvie-portfolio.arvieguadiz.workers.dev/)
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+- React
+- TypeScript
+- JavaScript
+- Redux
+- Material UI
+
+**Backend**
+
+- Node.js
+- Express.js
+- Redis
+
+**Database**
+
+- MySQL
+
+**Tools & Technologies**
+
+- Git
+- GitHub
+- Google Analytics
+- Google Tag Manager
+
+---
+
+## 💼 Professional Experience
+
+**Penbrothers**  
+_Junior Frontend Developer → Mid-Level Full-Stack Developer_  
+June 2022 – May 2026
+
+**New Media Services**  
+_Junior Programmer_  
+August 2019 – September 2021
+
+---
+
+## 🌐 Connect With Me
+
+- **Portfolio:** [arvie-portfolio.arvieguadiz.workers.dev](https://arvie-portfolio.arvieguadiz.workers.dev/)
+- **LinkedIn:** [Christian Arvie Benito](https://www.linkedin.com/in/christian-arvie-benito-378399211/)
+- **GitHub:** [@arvieguadiz](https://github.com/arvieguadiz)
+- **Email:** [arvieguadiz@gmail.com](mailto:arvieguadiz@gmail.com)
+
+---
+
+_Thanks for visiting my profile! Feel free to explore my repositories and connect with me._
